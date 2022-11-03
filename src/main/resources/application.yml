@@ -1,0 +1,12 @@
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+logging:
+  level:
+    root: INFO
+Logging:
+  Service: DEBUG
+
+#firstValue: 2
+#secondValue: 8
